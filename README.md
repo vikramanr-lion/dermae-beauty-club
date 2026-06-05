@@ -1,6 +1,4 @@
-(https://github.com/user-attachments/files/28649203/index.html
-)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/28649203/index.html)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
