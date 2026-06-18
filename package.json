@@ -1,0 +1,20 @@
+{
+  "name": "dermae-beauty-club",
+  "version": "1.0.0",
+  "description": "Dermae Beauty Circle - Join the exclusive beauty community",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "beauty",
+    "dermae",
+    "community"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
